@@ -153,6 +153,4 @@ for x in range(3, 6):
     days = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
 for x in months:
     for y in days:
-        print(x, y)
-        
-        
+        print(x, y)        
